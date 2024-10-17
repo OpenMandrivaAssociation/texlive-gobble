@@ -3,7 +3,7 @@ Version:	64967
 Release:	2
 Summary:	More gobble macros for PlainTeX and LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gobble
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gobble
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gobble.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gobble.doc.r%{version}.tar.xz
